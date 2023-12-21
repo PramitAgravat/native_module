@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+drawable four
+drawable img1
+drawable img2
+drawable img3
+drawable one
+drawable rn_edit_text_material
+drawable three
+drawable two
+id idIVImage
+id idViewPager
+integer react_native_dev_server_port
+integer react_native_inspector_proxy_port
+layout activity_main
+layout image_slider_item
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style AppTheme
